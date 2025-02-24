@@ -1,0 +1,13 @@
+parent {
+    background-color: green;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: start;
+}
+parent div {
+   font-size: 3rem;
+   background-color: pink;
+   border: 1px solid black;
+}

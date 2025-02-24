@@ -1,0 +1,33 @@
+a {
+    margin: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+#title {
+    color: blueviolet;
+}
+
+.featured {
+    color: brown;
+}
+
+span{
+    border: solid black 1px;
+    font-weight: 10px;
+    margin: 20px;
+    color: blue;
+    font-style: italic;
+}
+
+p input {
+    color: orange;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: rgb(195, 154, 107);
+}
